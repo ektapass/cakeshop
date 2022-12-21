@@ -1,0 +1,75 @@
+:root {
+    background-color: burlywood;
+  }
+ /* .new-container {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+    position: relative;
+    display: inline-block;
+    max-width: 700px;
+    min-width: 500px;
+    box-sizing: border-box;
+    padding: 30px 25px;
+    background-color: #407952;
+    border-radius: 40px;
+    margin: 40px 0;
+    left: 50%;
+    -moz-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+  }
+  h1 {
+
+    margin-bottom: 100px;
+    right: 0;
+    top: 0;
+    bottom: 15px;
+    padding: 10px;
+    font-size: 30px;
+    color: black;
+    text-align: right;
+  } */
+   
+   .input {
+    background-color: #c2fbd7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid seagreen;
+    line-height: 0;
+    font-size: 17px;
+    margin-left: 35px;
+    width: 80%;
+    display: block;
+    box-sizing: border-box;
+    padding: 10px 15px;
+    border-radius: 60px;
+    color: rgb(2, 2, 2);
+    font-weight: 100;
+    letter-spacing: 0.01em;
+    position: relative;
+    z-index: 1;
+  }
+  .button {
+    background-color: #c2fbd7;
+    border-radius: 100px;
+    box-shadow: rgba(54, 33, 173, 0.2) 0 -25px 18px -14px inset, rgba(44, 187, 99, .15) 0 1px 2px, rgba(44, 187, 99, .15) 0 2px 4px, rgba(44, 187, 99, .15) 0 4px 8px, rgba(44, 187, 99, .15) 0 8px 16px, rgba(44, 187, 99, .15) 0 16px 32px;
+    color: purple;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    display: inline-flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  
