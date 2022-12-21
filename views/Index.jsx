@@ -27,7 +27,7 @@ class Index extends React.Component {
                   <li key={cake._id}>
                     <a href={`/cake/${cake.id}`}>{cake.name.charAt(0).toUpperCase() + cake.name.slice(1)}</a>
                     <form action={`/cake/${cake._id}?_method=DELETE`} method="POST">
-                      <input type="submit" value="DELETE" />
+                      <input  className='button' type="submit" value="DELETE" />
 
 
                       

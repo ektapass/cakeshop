@@ -1,37 +1,7 @@
 :root {
     background-color: burlywood;
   }
- /* .new-container {
-
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  
-    position: relative;
-    display: inline-block;
-    max-width: 700px;
-    min-width: 500px;
-    box-sizing: border-box;
-    padding: 30px 25px;
-    background-color: #407952;
-    border-radius: 40px;
-    margin: 40px 0;
-    left: 50%;
-    -moz-transform: translate(-50%, 0);
-    -ms-transform: translate(-50%, 0);
-    -webkit-transform: translate(-50%, 0);
-    transform: translate(-50%, 0);
-  }
-  h1 {
-
-    margin-bottom: 100px;
-    right: 0;
-    top: 0;
-    bottom: 15px;
-    padding: 10px;
-    font-size: 30px;
-    color: black;
-    text-align: right;
-  } */
-   
+ 
    .input {
     background-color: #c2fbd7;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -39,7 +9,7 @@
     line-height: 0;
     font-size: 17px;
     margin-left: 35px;
-    width: 80%;
+    width: 40%;
     display: block;
     box-sizing: border-box;
     padding: 10px 15px;

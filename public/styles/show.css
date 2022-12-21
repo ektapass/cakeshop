@@ -6,19 +6,14 @@ body {
    .container{
     display:flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-evenly;
     /* align-items:center ; */
     border:2px solid black;
     width:700px;
     margin: 0 auto;
 }
 
- /* image-div {
-  /* display: flex; */
-  /* object-fit: contain;
-  width: 400px;
-    height: 250px; */
-  
+ 
  
 div {
   display: flex;
@@ -26,16 +21,7 @@ div {
   
    justify-content: space-evenly; 
 }
-/* .img {
-  background-repeat: no-repeat;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-  flex: 1;
-  background-size: cover;
-  border-radius: 15px;
-  border:2px solid rgb(91, 60, 83);
-} */
+
 a {
   font-weight: bold;
   background-color: #c2fbd7;
@@ -81,8 +67,8 @@ img:hover{
 }
 .copyright{
   display: flex;
-}
 
+}
 .buy-button {
   font-weight: bold;
   background-color: #c2fbd7;
@@ -106,4 +92,7 @@ img:hover{
 .buy-button:hover {
   box-shadow: rgba(116, 27, 188, 0.35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
   transform: scale(1.05) rotate(-1deg);
+}
+h1{
+  text-align: center;
 }
