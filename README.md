@@ -47,9 +47,7 @@
 
 Thankful to my instructors 
  **Tishana Trainor** and
- **Kasper Kain** 
-
- and my classmates.
+ **Kasper Kain**  and my classmates.
 
 ## Resources
 
