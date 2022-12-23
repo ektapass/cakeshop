@@ -45,7 +45,11 @@
 
 ## Acknowledgements
 
-Thankful to the instructors and my classmates.
+Thankful to my instructors 
+ **Tishana Trainor** and
+ **Kasper Kain** 
+
+ and my classmates.
 
 ## Resources
 
