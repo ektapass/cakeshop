@@ -45,7 +45,7 @@
 
 ## Acknowledgements
 
-Thankful to the instructors and my classmates.
+Thankful to my instructors and my classmates.
 
 ## Resources
 
