@@ -1,5 +1,5 @@
 const React = require('react');
-const DefaultLayout = require('./default');
+const DefaultLayout = require('./Default.jsx');
 //const allPokemon = require('../models/pokemon');
 // const myStyle = {
 //   color: '#ffffff',
